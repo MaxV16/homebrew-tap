@@ -1,6 +1,6 @@
 cask "simpledesktoprenamer" do
-  version "2.0.0"
-  sha256 "0e616f24616ac4ce9549272ef8f93e7d1bacfd13c0225c094aae73103b4302a3"
+  version "2.1.0"
+  sha256 "44df05a882dbfc29887841dd461d57d6e648de3413d97b36c195642852fa0ecb"
 
   url "https://github.com/MaxV16/SimpleDesktopRenamer/releases/download/v#{version}/SimpleDesktopRenamer.zip"
   name "SimpleDesktopRenamer"
